@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSticker.CSharp", "SmartSticker.CSharp.csproj", "{03A74267-42F5-69FD-A9A3-E09C08EAF0B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSticker.CSharp.Editor", "SmartSticker.CSharp.Editor.csproj", "{5D9619DB-BAF9-448C-17C5-DA7DE92EED4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A74267-42F5-69FD-A9A3-E09C08EAF0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A74267-42F5-69FD-A9A3-E09C08EAF0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A74267-42F5-69FD-A9A3-E09C08EAF0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A74267-42F5-69FD-A9A3-E09C08EAF0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D9619DB-BAF9-448C-17C5-DA7DE92EED4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9619DB-BAF9-448C-17C5-DA7DE92EED4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9619DB-BAF9-448C-17C5-DA7DE92EED4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9619DB-BAF9-448C-17C5-DA7DE92EED4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
