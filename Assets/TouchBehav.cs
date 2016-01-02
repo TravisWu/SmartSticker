@@ -12,7 +12,7 @@ public class TouchBehav : MonoBehaviour {
     bool interact;
 	void Start () {
         interact = false;
-        anim = GetComponent<Animation>();
+        anim = transform.GetComponent<Animation>();
 	}
 	
 	// Update is called once per frame
@@ -26,23 +26,24 @@ public class TouchBehav : MonoBehaviour {
 
     void OnTouchDown()
     {
+        //Debug.Log("Touched Down");
         interact = true;
     }
 
     void OnTouchUp()
     {
+        //Debug.Log("Touched Up");
         interact = false;
     }
 
     void IdleAnim()
     {
         anim.Play(idle.name);
-        anim.Play(itching.name);
-        anim.Play(idleSit.name);
+        
     }
 
     void InterAnim()
     {
-        anim.Play(meow.name);
+        anim.CrossFade(meow.name);
     }
 }
