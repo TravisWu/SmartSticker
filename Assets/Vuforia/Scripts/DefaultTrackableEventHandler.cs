@@ -83,6 +83,10 @@ namespace Vuforia
                 component.enabled = true;
             }
 
+			// Added on to fix object persisting after marker lost issue
+			GameObject cat = GameObject.FindGameObjectWithTag("Player");
+			cat.GetComponent<TouchBehav> ().enabled = true;
+
             Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " found");
         }
 
@@ -103,6 +107,10 @@ namespace Vuforia
             {
                 component.enabled = false;
             }
+
+			// Added on to fix object persisting after marker lost issue
+			GameObject cat = GameObject.FindGameObjectWithTag("Player");
+			cat.GetComponent<TouchBehav> ().enabled = false;
 
             Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " lost");
         }

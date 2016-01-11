@@ -38,12 +38,12 @@ public class TouchBehav : MonoBehaviour {
 
     void IdleAnim()
     {
-        anim.Play(idle.name);
+        anim.CrossFade(idle.name);
         
     }
 
     void InterAnim()
     {
-        anim.CrossFade(meow.name);
+		anim.Play(itching.name);
     }
 }
