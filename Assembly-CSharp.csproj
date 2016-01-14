@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GraphicUI.cs" />
      <Compile Include="Assets\MobileInput.cs" />
      <Compile Include="Assets\TouchBehav.cs" />
      <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />

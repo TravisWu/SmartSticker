@@ -1,0 +1,15 @@
+/Users/jackqiao/Documents/Github/SmartSticker/Temp/bin/Debug/UnityEngine.dll
+/Users/jackqiao/Documents/Github/SmartSticker/Temp/bin/Debug/UnityEditor.dll
+/Users/jackqiao/Documents/Github/SmartSticker/Temp/bin/Debug/Assembly-UnityScript-firstpass.dll
+/Users/jackqiao/Documents/Github/SmartSticker/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jackqiao/Documents/Github/SmartSticker/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jackqiao/Documents/Github/SmartSticker/Temp/bin/Debug/Qualcomm.Vuforia.UnityExtensions.dll
+/Users/jackqiao/Documents/Github/SmartSticker/Temp/bin/Debug/Mono.Cecil.dll
+/Users/jackqiao/Documents/Github/SmartSticker/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jackqiao/Documents/Github/SmartSticker/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jackqiao/Documents/Github/SmartSticker/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/jackqiao/Documents/Github/SmartSticker/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jackqiao/Documents/Github/SmartSticker/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jackqiao/Documents/Github/SmartSticker/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jackqiao/Documents/Github/SmartSticker/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/jackqiao/Documents/Github/SmartSticker/Temp/bin/Debug/Mono.Cecil.Mdb.dll
