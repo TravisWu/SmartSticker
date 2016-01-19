@@ -21,7 +21,7 @@ public class GraphicUI : MonoBehaviour {
 		if (GUI.Button (new Rect(10,10,50,30),"Back"))
 			Application.LoadLevel ("Main");
 
-		if (GUI.Button (new Rect (Screen.width/2 - length/2, Screen.height - height/2 - 10, length, height), bitMap, GUIStyle.none))
+		if (GUI.Button (new Rect (Screen.width/2 - length/2, Screen.height - height/2 - 20, length, height), bitMap, GUIStyle.none))
 			Application.OpenURL ("http://lumistories.azurewebsites.net");
 	}
 }
