@@ -45,9 +45,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\GraphicUI.cs" />
-     <Compile Include="Assets\MobileInput.cs" />
-     <Compile Include="Assets\TouchBehav.cs" />
+     <Compile Include="Assets\Scripts\GalleryBrowing.cs" />
+     <Compile Include="Assets\Scripts\GraphicUI.cs" />
+     <Compile Include="Assets\Scripts\MobileInput.cs" />
+     <Compile Include="Assets\Scripts\TouchBehav.cs" />
+     <Compile Include="Assets\Scripts\menu.cs" />
      <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CylinderTargetBehaviour.cs" />
@@ -85,7 +87,6 @@
      <Compile Include="Assets\Vuforia\Scripts\WireframeBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\WireframeTrackableEventHandler.cs" />
      <Compile Include="Assets\Vuforia\Scripts\WordBehaviour.cs" />
-     <Compile Include="Assets\menu.cs" />
      <None Include="Assets\Kitten\Shaders\Normal-Diffuse.shader" />
      <None Include="Assets\link.xml" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
