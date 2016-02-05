@@ -20,7 +20,7 @@ public class GraphicUI : MonoBehaviour {
 	}
 
 	void OnGUI() {
-		if (GUI.Button (new Rect(10,10,50,30),backBut, GUIStyle.none))
+		if (GUI.Button (new Rect(10,10,50,40),backBut, GUIStyle.none))
 			Application.LoadLevel ("Main");
 
 		if (GUI.Button (new Rect (Screen.width / 2 - length / 2, Screen.height - height / 2 - 50, length, height), bitMap, GUIStyle.none))

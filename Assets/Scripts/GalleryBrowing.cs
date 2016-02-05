@@ -32,7 +32,7 @@ public class GalleryBrowing : MonoBehaviour {
 	}
 
 	void OnGUI(){
-		if (GUI.Button (new Rect(10,10,80,4s0),backBut, GUIStyle.none))
+		if (GUI.Button (new Rect(10,10,80,40),backBut, GUIStyle.none))
 			Application.LoadLevel ("Main");
 		
 		switch (currentImage) 

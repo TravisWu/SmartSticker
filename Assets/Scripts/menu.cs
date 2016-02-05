@@ -6,11 +6,11 @@ public class menu : MonoBehaviour {
 
 	void OnClick()
 	{
-		Application.LoadLevel ("VR");
+		Application.LoadLevel ("Intro");
 	}
 
-	void Browse()
+	void Scan()
 	{
-		Application.LoadLevel ("Gallery");
+		Application.LoadLevel ("VR");
 	}
 }
