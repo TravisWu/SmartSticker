@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/menu.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GraphicUI.cs">
     <Files>
-      <File FileName="Assets/Scripts/GraphicUI.cs" Line="23" Column="38" />
+      <File FileName="Assets/Scripts/Configuration.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/GraphicUI.cs" Line="26" Column="2" />
       <File FileName="Assets/Scripts/GalleryBrowing.cs" Line="35" Column="38" />
-      <File FileName="Assets/Scripts/menu.cs" Line="14" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
